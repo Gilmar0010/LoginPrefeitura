@@ -95,3 +95,13 @@ nav#menu a:hover{
  /*text-decoration:underline;deixar sublinhado sublinhado*/
  transition: color 2s;
 }
+
+section form {
+  text-align: center;
+  font-family: sans-serif;
+  font-style: black;
+}
+
+section form p{
+  color: black;
+}
